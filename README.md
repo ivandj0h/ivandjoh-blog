@@ -36,6 +36,25 @@ npx dotenv -e .env.local -- prisma db push
 
 `https://docs.kinde.com/developer-tools/sdks/backend/nextjs-sdk/`
 
+`https://uploadthing.com/`
+
+`https://stripe.com/`
+
+`https://github.com/tailwindlabs/tailwindcss-typography`
+
 ## Captured
 
+Landing Page - Dark Mode
+![Alt text](/public/landing.png)
+
+Landing Page - Light Mode
+
+![Alt text](/public/landing_light.png)
+
+Dashboard - Dark Mode
+
 ![Alt text](/public/hero.png)
+
+Dashboard - Light Mode
+
+![Alt text](/public/hero_light.png)
