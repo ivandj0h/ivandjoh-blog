@@ -12,7 +12,7 @@
   "dependencies": {
     "@conform-to/react": "^1.1.5",
     "@conform-to/zod": "^1.1.5",
-    "@kinde-oss/kinde-auth-nextjs": "^2.3.6",
+    "@kinde-oss/kinde-auth-nextjs": "^2.3.11",
     "@prisma/client": "^5.18.0",
     "@radix-ui/react-dialog": "^1.1.1",
     "@radix-ui/react-dropdown-menu": "^2.1.1",
